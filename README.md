@@ -1,2 +1,4 @@
 # triangle-type
-Should tell the type of triangle regarding the different length.
+Should tell the type of triangle regarding the differents length.
+
+Put 3 lentgh!
